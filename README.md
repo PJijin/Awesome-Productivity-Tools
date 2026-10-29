@@ -16,3 +16,5 @@
 
 ## Websites
  
+1. [Ripple](https://ripplefocus.github.io/) - Local-first focus and parental control for Android and iOS 16+. Blocks Shorts, Reels, and Channels. Uninstall lock, cooldown, parent unlock code.
+
